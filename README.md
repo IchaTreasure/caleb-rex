@@ -1,14 +1,4 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+<h3>Project’s Core Functionality</h3>
+<h3> THE PROJECT </h3>
+<h5 WHAT IS IT?</h5>
+<p> Build a static (front-end only) website for a 1960's rock band called The Monkees. For the purposes of this project, I have chosen to build a website for an artist named Caleb Rex. </p>

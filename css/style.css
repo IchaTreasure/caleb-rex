@@ -156,11 +156,11 @@ footer {
 }
 
 .social-links li a i {
-  width: 50px;
-  height: 50px;
-  padding: 15px;
-  border-radius: 50%;
-  font-size: 30px;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 20%;
+  font-size: 20px;
   line-height: 20px;
   text-align: center;
   color: #fafafa;
@@ -172,5 +172,5 @@ footer {
 }
 
 .social-links li a i:hover {
-  background: #7D0D11;
+  background: black;
 }
