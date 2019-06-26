@@ -11,9 +11,45 @@
 <P> •	Use the site to showcase the music and publicise availability to perform at events such as weddings and Christmas parties.</p>
 <P> •	The following assets to be showcased on the website:</p>
 <P>     •	Photos</p>
-<P>     •	A video clip</p>
+<P>     •	Two video clips</p>
 <P>     •	Audio clips</p>
-<P>     •	Links to Facebook, Twitter and YouTube pages etc.</p>
+<P>     •	Links to Facebook, Twitter, Instagram and YouTube pages etc.</p>
 
 <h5>PURPOSE OF WEBSITE </h5>
-<p> Based on the brief, the aim of the website (in both functionality and design) was produce a functional website that essentially showcasws Fiona Apppe's music to current and new fans.</p>
+<p> Based on the brief, the aim of the website (in both functionality and design) was produce a functional website that essentially showcases Caleb's music to current and new fans.</p>
+
+<h6> The Initial stages </p>
+<P>     •	Researched Caleb Rex's social media to help me know what kind of design would bes suit him and his kind of music.</p>
+<P>     •	Decided what pages were going to be on the website</p>
+<P>     •	Sketched out a template for the header ad footer which was going to be repaeated on all the pages</p>
+<P>     •	Then skecthed out ideas for the actual page content of each page</p>
+<P>     •	Decided on the final design</p>
+
+
+<h6> Page Layout </p>
+<P>     •	I decided to go with 5 different pages i.e about page, music page, </p>
+<p>         videos page, photos page and contact page excluding the index page.</p>
+<P>     •	The about page contains a row with two columns, one for the picture about </p>
+<p>         Caleb and another column containing a few text about caleb and his music.</p>
+<P>     •	The Music page contains two rows with three columns on each row which contain</p>
+<p>         an audio file for a song and the corresponding cover photo forthe song </p>
+<P>     •	The videos page contains two rows inside a container containing two music videos. </p>
+<P>     •	The photos page contains 12 photos</p>
+<P>     •	The contact us page contains a row with two columns one with a form for the user to fill</p>
+<P>     	and another column showing alternative methods e.g phone number and email address</p>
+
+
+<h6> Colors and Fonts </p>
+<P>     •   I decided to use popular Flat UI Colors from https://www.materialui.co/flatuicolors.</p>
+<p>     •   
+
+
+<h6> Navigation </p>
+<p>     •   I chose to use a fixed navigation style, this allows for a user friendly experience on this site. </p>
+
+<h6> Social Media in Footer</h6>
+<p>     •   </p>
+
+
+<h5> HOW IT WAS BUILT </h5>
+<hr>

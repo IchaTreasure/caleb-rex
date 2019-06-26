@@ -4,28 +4,21 @@ body {
   padding-top: 56px;
 }
 
-nav li a:hover {
-  background: black;
-  
-} 
-
-main{
- /*   height: 100vh;
-    background: url('../images/Caleb1.jpg') no-repeat top right fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative; */s
-    
-    
+ul li a .active-page
+{
+  background-color:black;
 }
 
-.main-container {
-    
+p{
+	color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: white;
+}
+
+label{
+	color: white;
 }
 
 /*----------------------------------------- Modal Styling */
