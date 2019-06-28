@@ -66,36 +66,35 @@
 
 <h3> Code/Framework Used Per Section </h3>
 <h4> Navigation </h4>
-<p>                 •	Bootstrap Navbar</p>
-            
-<h4>About</h4>
-<p>                 •	Bootstrap Grid system</p>
-            
-<h4>Music</h4>
-<p>                 •	Bootstrap Grid system</p>
-<p>                 •	Bootstrap Dropdown menu buttons</p>
-            
-<h4>Videos</h4>
-<p>                 •	Bootstrap Grid system</p>
-            
-<h4>Photo Gallery</h4>
-<p>                 •	Bootstrap Grid system and Modal for popup photos</p>
-            
-<h4>Contact Us</h4>
-<p>                 •	Bootstrap Grid system</p>
-            
-<h4>Footer</h4>
-<p>                 •	Bootstrap for layout.</p>
-<p>                 •   Font Awesome for Social Media icons.</p>
-<p>                 •	Any code referenced, I have noted accordingly on the HTML doc and CSS stylesheet.</p>
-            
-<h3> HOW IT WAS TESTED </h3>
-<h4> Summary </h4>
-<p>                 •	During and throughout the build, this was tested on google chrome using devTools, and testing responsiveness using the device toolbar.</p>
-<p>                 •	Also used the elements and style sections of the devTools to troubleshoot coding that seemed to affect my page layout when I couldn't quite work out what the issue was. My mentor reminded me of this tip.</p>
-<p>                 •	Also tested responsiveness by resizing the window everytime I implemented a new piece of code.</p>
-<p>                 •	AND also tested it physically viewing it on mobile, tablet, mac and windows laptop, windows desktop, and different browsers (firefox, safari, google chrome, opera)</p>
+<p>     •	Bootstrap Navbar</p>
 
+<h4>About</h4>
+<p>     •	Bootstrap Grid system</p>
+
+<h4>Music</h4>
+<p>     •	Bootstrap Grid system</p>
+<p>     •	Bootstrap Dropdown menu buttons</p>
+
+<h4>Videos</h4>
+<p>     •	Bootstrap Grid system</p>
+
+<h4>Photo Gallery<h4>
+<p>     •	Bootstrap Grid system and Modal for popup photos</p>
+
+<h4>Contact Us</h4>
+<p>     •	Bootstrap Grid system</p>
+
+<h4>Footer</
+<p>     •	Bootstrap for layout.</p>
+<p>     •   Font Awesome for Social Media icons.</p>
+<p>     •	Any code referenced, I have noted accordingly on the HTML doc and CSS stylesheet.</p>
+
+<h3> HOW IT WAS TED </h3>
+<h4> Summary </h4>
+<p>     •	During and throughout the build, this was tested on google chrome using devTools, and testing responsiveness using the device toolbar.</p>
+<p>     •	Also used the elements and style sections of the devTools to troubleshoot coding that seemed to affect my page layout when I couldn't quite work out what the issue was. My mentor reminded me of this tip.</p>
+<p>     •	Also tested responsiveness by resizing the window everytime I implemented a new piece of code.</p>
+<p>     •	AND also tested it physically viewing it on mobile, tablet, mac and windows laptop, windows desktop, and different browsers (firefox, safari, google chrome, opera)</p>
 
 <h3> What was tested </h3>
 <p>     •	External links to Calebs social media i.e facebook, twitter, instagram and youtube)</p>
@@ -105,3 +104,6 @@
 <p>     •	Checked margins and padding of container (sections)</p>
 <p>     •	Ensured the iframes were being responsive and displayed properly.</p>
 <p>     •	HTML and CSS validation via w3.org.</p>
+
+<h3> HOW IT WAS DEPLOYED </h3>
+<p>     •	Used GitHub Pages to deploy final version (https://ichatreasure.github.io/caleb-rex)</p>
