@@ -25,7 +25,6 @@
 <P>     •	Then skecthed out ideas for the actual page content of each page</p>
 <P>     •	Decided on the final design</p>
 
-
 <h3> Page Layout </h3>
 <P>     •	I decided to go with 5 different pages i.e about page, music page, </p>
 <p>         videos page, photos page and contact page excluding the index page.</p>
@@ -38,17 +37,11 @@
 <P>     •	The contact us page contains a row with two columns one with a form for the user to fill</p>
 <P>     	and another column showing alternative methods e.g phone number and email address</p>
 
-
 <h3> Colors and Fonts </h3>
 <P>     •   I decided to use popular Flat UI Colors from https://www.materialui.co/flatuicolors.</p>
-<p>     •   
-
 
 <h3> Navigation </h3>
 <p>     •   I chose to use a fixed navigation style, this allows for a user friendly experience on this site. </p>
-
-<h3> Social Media in Footer</h3>
-<p>     •   </p>
 
 
 <h3> HOW IT WAS BUILT </h3>
@@ -73,46 +66,42 @@
 
 <h3> Code/Framework Used Per Section </h3>
 <h4> Navigation </h4>
-<p>     •	Bootstrap Navbar</p>
-
+<p>                 •	Bootstrap Navbar</p>
+            
 <h4>About</h4>
-<p>     •	Bootstrap Grid system</p>
-
+<p>                 •	Bootstrap Grid system</p>
+            
 <h4>Music</h4>
-<p>     •	Bootstrap Grid system</p>
-<p>     •	Bootstrap Dropdown menu buttons</p>
-
+<p>                 •	Bootstrap Grid system</p>
+<p>                 •	Bootstrap Dropdown menu buttons</p>
+            
 <h4>Videos</h4>
-<p>     •	Bootstrap Grid system</p>
-
+<p>                 •	Bootstrap Grid system</p>
+            
 <h4>Photo Gallery</h4>
-<p>     •	Bootstrap Grid system and Modal for popup photos</p>
-
+<p>                 •	Bootstrap Grid system and Modal for popup photos</p>
+            
 <h4>Contact Us</h4>
-<p>     •	Bootstrap Grid system</p>
-
+<p>                 •	Bootstrap Grid system</p>
+            
 <h4>Footer</h4>
-<p>     •	Bootstrap for layout.</p>
-<p>     •   Font Awesome for Social Media icons.</p>
-<p>     •	Any code referenced, I have noted accordingly on the HTML doc and CSS stylesheet.</p>
+<p>                 •	Bootstrap for layout.</p>
+<p>                 •   Font Awesome for Social Media icons.</p>
+<p>                 •	Any code referenced, I have noted accordingly on the HTML doc and CSS stylesheet.</p>
+            
+<h3> HOW IT WAS TESTED </h3>
+<h4> Summary </h4>
+<p>                 •	During and throughout the build, this was tested on google chrome using devTools, and testing responsiveness using the device toolbar.</p>
+<p>                 •	Also used the elements and style sections of the devTools to troubleshoot coding that seemed to affect my page layout when I couldn't quite work out what the issue was. My mentor reminded me of this tip.</p>
+<p>                 •	Also tested responsiveness by resizing the window everytime I implemented a new piece of code.</p>
+<p>                 •	AND also tested it physically viewing it on mobile, tablet, mac and windows laptop, windows desktop, and different browsers (firefox, safari, google chrome, opera)</p>
 
-HOW IT WAS TESTED
-Summary
-•	During and throughout the build, this was tested on google chrome using devTools, and testing responsiveness using the device toolbar.
-•	Also used the elements and style sections of the devTools to troubleshoot coding that seemed to affect my page layout when I couldn't quite work out what the issue was. My mentor reminded me of this tip.
-•	Also tested responsiveness by resizing the window everytime I implemented a new piece of code.
-•	AND also tested it physically viewing it on mobile, tablet, mac and windows laptop, windows desktop, and different browsers (firefox, safari, google chrome, opera)
 
-What was tested
-•	External links (to her social media, to buy her album, spotify and youtube)
-•	Internal links (the navbar to ensure anchors were referenced to the right sections, and the link to right the modal popups)
-•	Forms for signup of newsletter and enquiry for event booking (if the required field was triggered when i clicked submit without an email address)
-•	Margins for the containers (page sections) as fixed navbar alters the margins slightly that when you click on the link to take you to an anchor point, the navbar covers the heading. Changed margins in css to accommodate correct anchor point.
-•	Checked button sizes so they were responsive and large enough to be clicked
-•	Checked images to ensure they were responsive and displayed appropriately on smaller screens
-•	Checked modal-dialog size in smaller screen to ensure it displayed properly.
-•	Ensuring header was resized when viewing on smaller screens (aka mobile) and amending padding-bottom to account for navbar covering half the image when viewing on a smaller screen.
-•	Ensuring content had no grammatical errors.
-•	Checked margins and padding of container (sections) to ensure the content within it didn't look disproportionate on smaller screens.
-•	Ensured the iframes were being responsive and displayed properly.
-•	HTML and CSS validation via w3.org.
+<h3> What was tested </h3>
+<p>     •	External links to Calebs social media i.e facebook, twitter, instagram and youtube)</p>
+<p>     •	Internal links (the navbar to ensure anchors were referenced to the right sections)</p>
+<p>     •	Checked images to ensure they were responsive and displayed appropriately on smaller screens</p>
+<p>     •	Ensuring content had no grammatical errors.</p>
+<p>     •	Checked margins and padding of container (sections)</p>
+<p>     •	Ensured the iframes were being responsive and displayed properly.</p>
+<p>     •	HTML and CSS validation via w3.org.</p>
