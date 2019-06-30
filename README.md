@@ -4,7 +4,7 @@
 
 <h3> WHAT IS IT? </h3>
 
-<p> Build a static (front-end only) website for a 1960's rock band called The Monkees. For the purposes of this project, I have chosen to build a website for an artist named Caleb Rex. </p>
+<p> Build a static (front-end only) website for an artist named Caleb Rex. </p>
 
 <h3>BREIF</h3>
 <P> •	Primary target audiences are the fans and potential fans who wish to use the site to see and hear clips from the back catalog, and any new material as it becomes available.</p>
@@ -58,13 +58,13 @@
 <p>     •   https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css</p>
 <p>     •   https://fonts.googleapis.com/css?family=Roboto:400,700</p>
 
-<h3> Plugins </h3>
+<h3> Sources </h3>
 <p>     •   https://getbootstrap.com/</p>
 <p>     •   https://www.w3schools.com/</p>
 <p>     •   https://stackoverflow.com/</p>
 <p>     •   https://codepen.io/</p>
 
-<h3> Code/Framework Used Per Section </h3>
+<h3> Code/Framework Used Per page </h3>
 <h4> Navigation </h4>
 <p>     •	Bootstrap Navbar</p>
 
@@ -84,12 +84,12 @@
 <h4>Contact Us</h4>
 <p>     •	Bootstrap Grid system</p>
 
-<h4>Footer</
+<h4>Footer</h4>
 <p>     •	Bootstrap for layout.</p>
 <p>     •   Font Awesome for Social Media icons.</p>
 <p>     •	Any code referenced, I have noted accordingly on the HTML doc and CSS stylesheet.</p>
 
-<h3> HOW IT WAS TED </h3>
+<h3> HOW IT WAS TESTED </h3>
 <h4> Summary </h4>
 <p>     •	During and throughout the build, this was tested on google chrome using devTools, and testing responsiveness using the device toolbar.</p>
 <p>     •	Also used the elements and style sections of the devTools to troubleshoot coding that seemed to affect my page layout when I couldn't quite work out what the issue was. My mentor reminded me of this tip.</p>

@@ -4,9 +4,9 @@ body {
   padding-top: 56px;
 }
 
-ul li a .active-page
+.active-page
 {
-  background-color:black;
+  color: white !important ;
 }
 
 p{
@@ -41,7 +41,7 @@ label{
     -o-transition: all 0.35s ease-in-out;
 }
 
-/*---------------------------- css for contact form*/
+/*---------------------------- css for contact form: https://www.sanwebe.com/2014/08/css-html-forms-designs */
 .form-style-1 {
 	margin:10px auto;
 	max-width: 400px;
